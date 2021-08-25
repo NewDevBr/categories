@@ -23,23 +23,23 @@ This project was made thinking goals the follow objectivies: I) Using blade expr
   
 ## 1. Software screens<a name="layout"/>
 
-<img src="/resources/views/imgs/home.png" width="650" height="350" />
+<img src="/resources/views/imgs/home.png" />
 
-<img src="/resources/views/imgs/categories.png" width="650" height="350" />
+<img src="/resources/views/imgs/categories.png" />
 
-<img src="/resources/views/imgs/newcategory.png" width="650" height="350" />
+<img src="/resources/views/imgs/newcategory.png" />
  
- <img src="/resources/views/imgs/newcategoryadded.png" width="650" height="350" />
+ <img src="/resources/views/imgs/newcategoryadded.png" />
 
-<img src="/resources/views/imgs/updatingcategory.png" width="650" height="350" />
+<img src="/resources/views/imgs/updatingcategory.png" />
 
-<img src="/resources/views/imgs/products.png" width="650" height="350" />
+<img src="/resources/views/imgs/products.png" />
 
-<img src="/resources/views/imgs/newproduct.png" width="650" height="350" />
+<img src="/resources/views/imgs/newproduct.png" />
 
-<img src="/resources/views/imgs/newproductadded.png" width="650" height="350" />
+<img src="/resources/views/imgs/newproductadded.png" />
 
-<img src="/resources/views/imgs/updatingproduct.png" width="650" height="350" />
+<img src="/resources/views/imgs/updatingproduct.png" />
  
 ## 3. About Laravel <a name="laravel"/>
 
